@@ -1,5 +1,11 @@
 # Sable Yard — a three.js tactical FPS
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/basesium/sable-yard-fps/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/basesium/sable-yard-fps/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/threejs-fps-02)'s “Make the best three.js tactical FPS” bounty, $1,000 in USDC.
+
 A round-based tactical first-person shooter in the style Counter-Strike made
 famous, built for make.fun bounty `threejs-fps-02`. Original map, art, sounds
 and names — never a copy of a commercial game.
